@@ -2,7 +2,7 @@ import React from 'react';
 import {Link} from 'react-router'
 
 export default () => (
-  <div id="nav" class="fourteen columns">
+  <div id="nav" className="fourteen columns">
 	<ul>
 		<li><Link to="/">Home</Link></li>
 		<li><Link to="/creditcard">Credit Card</Link></li>

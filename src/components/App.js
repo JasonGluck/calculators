@@ -10,7 +10,7 @@ class App extends Component {
         <NavBar />
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to Financial Calculators</h2>
+          <h2 className="header">Welcome to Financial Calculators</h2>
         </div>
       </div>
     )
